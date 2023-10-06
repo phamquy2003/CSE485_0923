@@ -28,4 +28,3 @@ class PatientService{
 
     }
 }
-t nghĩ là nên xóa bên nhánh master đi push lại
